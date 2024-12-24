@@ -1,0 +1,1 @@
+This directory contains all the code for the week 0 from CS50AI
